@@ -1,4 +1,4 @@
-a=["c","r","e","s","p","o"]
+a=["f","o","o","s","e","s"]
 for x in a:
     print(x)
 
